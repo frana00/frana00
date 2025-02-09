@@ -1,12 +1,14 @@
 # ¡Hola mundo! 👋 Soy Fran
 
 ## 🤓 ¿Quién soy?
-Data nerd por elección, estudiante de la UNIR por convicción (¡último año, baby! 🎉).
-Próximamente enfrentándome al temido TFG... *inserte música dramática* 🎭
+Data nerd por elección, estudiante de la UNIR por convicción (¡último año, bye! 🎉).
+Próximamente enfrentándome al TFG... *inserte música dramática* 🎭 
 
-## 💘 Mis amores verdaderos
+![Drama](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2kza2tjdWM5M2FpNjFtbnlseDNiaHQzNmthZ3l2NGsyYmtkOGhvOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8nhgZZMKUicpi/giphy.gif)
+
+## 💘 Mis preferencias
 ```python
-mis_pasiones = {
+mis_preferencias = {
     "Python": "Mi lenguaje crush 🐍",
     "Data": "Porque los números cuentan historias más interesantes que la gente 📊",
     "React": "Para hacer cosas bonitas sin morir en el intento ⚛️",
