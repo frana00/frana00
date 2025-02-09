@@ -27,6 +27,11 @@ mis_pasiones = {
 ![Data Analysis](https://img.shields.io/badge/-Data%20Analysis-4B275F?style=flat-square&logo=pandas&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
+## 🚀 Mi último proyecto
+¿Quieres ver algo cool? ¡Check out mi [Test de Sistemas Inteligentes](https://si-test.vercel.app/)! 
+Porque estudiar para los exámenes es mejor cuando creas tu propia app de práctica 🤓
+> Desarrollado con React y desplegado en Vercel, porque go big or go home 💅
+
 ## 🎭 Plot twist
 Sí, tengo repos de Java y patrones de diseño. No, no fue por decisión propia. 
 La vida del estudiante es dura... ¡pero aquí estamos! 💪
