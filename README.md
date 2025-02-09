@@ -1,16 +1,43 @@
-## Hi there 👋
+# ¡Hola mundo! 👋 Soy Fran
 
-<!--
-**frana00/frana00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🤓 ¿Quién soy?
+Data nerd por elección, estudiante de la UNIR por convicción (¡último año, baby! 🎉).
+Próximamente enfrentándome al temido TFG... *inserte música dramática* 🎭
 
-Here are some ideas to get you started:
+## 💘 Mis amores verdaderos
+```python
+mis_pasiones = {
+    "Python": "Mi lenguaje crush 🐍",
+    "Data": "Porque los números cuentan historias más interesantes que la gente 📊",
+    "React": "Para hacer cosas bonitas sin morir en el intento ⚛️",
+    "Flask": "Porque Django es demasiado mainstream 🌶️"
+}
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎢 Mi vida de dev
+- 🔭 Actualmente: Experimentando con todo lo que brille
+- 🌱 Siempre: Aprendiendo algo nuevo (porque YOLO)
+- 💀 También: Sobreviviendo a Java y patrones de diseño (no por gusto, créanme)
+- 🎯 Próximamente: TFG loading...
+
+## 🛠️ Mi caja de herramientas
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=Flask&logoColor=white)
+![Data Analysis](https://img.shields.io/badge/-Data%20Analysis-4B275F?style=flat-square&logo=pandas&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+## 📊 Mi vida en números
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=frana00&show_icons=true&theme=radical)
+
+## 🎭 Plot twist
+Sí, tengo repos de Java y patrones de diseño. No, no fue por decisión propia. 
+La vida del estudiante es dura... ¡pero aquí estamos! 💪
+
+## 📫 ¿Quieres charlar sobre datos o crear algo cool?
+¡Encuéntrame aquí! Prometo responder... eventualmente 😅
+
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/frana00)
+
+---
+*Este README fue escrito con ❤️ y mucho ☕*
