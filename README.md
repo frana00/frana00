@@ -1,13 +1,13 @@
 # ¡Hola mundo! 👋 Soy Fran
 
 ## 🤓 ¿Quién soy?
-Data nerd por elección, estudiante de la UNIR por convicción (¡último año, baby! 🎉).
-Próximamente enfrentándome al temido TFG... *inserte música dramática* 🎭
+Data nerd por elección, estudiante de la UNIR por convicción (¡último año, bye! 🎉).
+Próximamente enfrentándome al TFG... *inserte música dramática* 🎭
 
-## 💘 Mis amores verdaderos
+## 💘 Mis preferencias
 ```python
 mis_pasiones = {
-    "Python": "Mi lenguaje crush 🐍",
+    "Python": "Mi lenguaje 🐍",
     "Data": "Porque los números cuentan historias más interesantes que la gente 📊",
     "React": "Para hacer cosas bonitas sin morir en el intento ⚛️",
     "Flask": "Porque Django es demasiado mainstream 🌶️"
@@ -16,7 +16,7 @@ mis_pasiones = {
 
 ## 🎢 Mi vida de dev
 - 🔭 Actualmente: Experimentando con todo lo que brille
-- 🌱 Siempre: Aprendiendo algo nuevo (porque YOLO)
+- 🌱 Siempre: Aprendiendo algo nuevo (porque sí)
 - 💀 También: Sobreviviendo a Java y patrones de diseño (no por gusto, créanme)
 - 🎯 Próximamente: TFG loading...
 
@@ -26,9 +26,6 @@ mis_pasiones = {
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=Flask&logoColor=white)
 ![Data Analysis](https://img.shields.io/badge/-Data%20Analysis-4B275F?style=flat-square&logo=pandas&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-## 📊 Mi vida en números
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=frana00&show_icons=true&theme=radical)
 
 ## 🎭 Plot twist
 Sí, tengo repos de Java y patrones de diseño. No, no fue por decisión propia. 
