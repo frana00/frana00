@@ -1,13 +1,13 @@
 # ¡Hola mundo! 👋 Soy Fran
 
 ## 🤓 ¿Quién soy?
-Data nerd por elección, estudiante de la UNIR por convicción (¡último año, bye! 🎉).
-Próximamente enfrentándome al TFG... *inserte música dramática* 🎭
+Data nerd por elección, estudiante de la UNIR por convicción (¡último año, baby! 🎉).
+Próximamente enfrentándome al temido TFG... *inserte música dramática* 🎭
 
-## 💘 Mis preferencias
+## 💘 Mis amores verdaderos
 ```python
-mis_preferencias = {
-    "Python": "Mi lenguaje 🐍",
+mis_pasiones = {
+    "Python": "Mi lenguaje crush 🐍",
     "Data": "Porque los números cuentan historias más interesantes que la gente 📊",
     "React": "Para hacer cosas bonitas sin morir en el intento ⚛️",
     "Flask": "Porque Django es demasiado mainstream 🌶️"
@@ -16,7 +16,7 @@ mis_preferencias = {
 
 ## 🎢 Mi vida de dev
 - 🔭 Actualmente: Experimentando con todo lo que brille
-- 🌱 Siempre: Aprendiendo algo nuevo (porque sí)
+- 🌱 Siempre: Aprendiendo algo nuevo (porque YOLO)
 - 💀 También: Sobreviviendo a Java y patrones de diseño (no por gusto, créanme)
 - 🎯 Próximamente: TFG loading...
 
@@ -30,6 +30,10 @@ mis_preferencias = {
 ## 🎭 Plot twist
 Sí, tengo repos de Java y patrones de diseño. No, no fue por decisión propia. 
 La vida del estudiante es dura... ¡pero aquí estamos! 💪
+
+¿Evidencia de mi sufrimiento? Aquí está:
+- [Design Patterns](https://github.com/frana00/design-patterns) - Ejercicios de refactoring.guru (porque uno nunca sabe cuándo necesitará un Abstract Factory 🏭)
+- [RS](https://github.com/frana00/rs) - Más patrones de diseño, porque con uno no fue suficiente 😅
 
 ## 📫 ¿Quieres charlar sobre datos o crear algo cool?
 ¡Encuéntrame aquí! Prometo responder... eventualmente 😅
