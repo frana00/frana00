@@ -6,7 +6,7 @@ Próximamente enfrentándome al TFG... *inserte música dramática* 🎭
 
 ## 💘 Mis preferencias
 ```python
-mis_pasiones = {
+mis_preferencias = {
     "Python": "Mi lenguaje 🐍",
     "Data": "Porque los números cuentan historias más interesantes que la gente 📊",
     "React": "Para hacer cosas bonitas sin morir en el intento ⚛️",
