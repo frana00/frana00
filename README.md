@@ -4,7 +4,7 @@
 Data nerd por elección, estudiante de la UNIR por convicción (¡último año, bye! 🎉).
 Próximamente enfrentándome al TFG... *inserte música dramática* 🎭 
 
-![Drama](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2kza2tjdWM5M2FpNjFtbnlseDNiaHQzNmthZ3l2NGsyYmtkOGhvOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8nhgZZMKUicpi/giphy.gif)
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2kza2tjdWM5M2FpNjFtbnlseDNiaHQzNmthZ3l2NGsyYmtkOGhvOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8nhgZZMKUicpi/giphy.gif" width="200"/>
 
 ## 💘 Mis preferencias
 ```python
