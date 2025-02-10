@@ -18,7 +18,7 @@ mis_preferencias = {
 
 ## 🎢 Mi vida de dev
 - 🔭 Actualmente: Experimentando con todo lo que brille
-- 🌱 Siempre: Aprendiendo algo nuevo (porque YOLO)
+- 🌱 Siempre: Aprendiendo algo nuevo (porque sí)
 - 💀 También: Sobreviviendo a Java y patrones de diseño (no por gusto, créanme)
 - 🎯 Próximamente: TFG loading...
 
