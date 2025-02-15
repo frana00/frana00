@@ -9,7 +9,7 @@ Próximamente enfrentándome al TFG... *inserte música dramática* 🎭
 ## 💘 Mis preferencias
 ```python
 mis_preferencias = {
-    "Python": "Mi lenguaje crush 🐍",
+    "Python": "Mi lenguaje preferido 🐍",
     "Data": "Porque los números cuentan historias más interesantes que la gente 📊",
     "React": "Para hacer cosas bonitas sin morir en el intento ⚛️",
     "Flask": "Porque Django es demasiado mainstream 🌶️"
@@ -40,7 +40,7 @@ La vida del estudiante es dura... ¡pero aquí estamos! 💪
 
 ¿Evidencia de mi sufrimiento? Aquí está:
 - [Design Patterns](https://github.com/frana00/design-patterns) - Ejercicios de refactoring.guru (porque uno nunca sabe cuándo necesitará un Abstract Factory 🏭)
-- [RS](https://github.com/frana00/rs) - Más patrones de diseño, porque con uno no fue suficiente 😅
+- [RS](https://github.com/frana00/ReutilizacionClases) - Más patrones de diseño, porque con uno no fue suficiente 😅
 
 ## 📫 ¿Quieres charlar sobre datos o crear algo cool?
 ¡Encuéntrame aquí! Prometo responder... eventualmente 😅
