@@ -44,7 +44,7 @@ Cuando no estoy programando, probablemente estoy nadando 🏊‍♀️ o tomando
 
 </div>
 
-## 🚀 Proyecto destacado
+## 🚀 Proyectos destacados
 
 ### 🐾 VetZoo — CRM Veterinario
 
@@ -67,12 +67,32 @@ Gestión completa de clientes, mascotas, citas, fichas clínicas, recetas, presu
 
 **Tech:** React · TypeScript · Vite · Supabase · PostgreSQL
 
+### 📚 [IPMD Study Hub](https://ipmd.vercel.app/)
+
+Plataforma interactiva de estudio diseñada para masterizar conceptos de **Ingeniería de Procesado Masivo de Datos**. Una herramienta clave para mi formación en el Máster, integrando síntesis visuales y bases técnicas sobre Big Data.
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><strong>🖥️ Desktop</strong></td>
+      <td align="center"><strong>📱 Móvil</strong></td>
+    </tr>
+    <tr>
+      <td><img src="assets/screenshots/ipmd-desktop.png" alt="IPMD Desktop" width="600" /></td>
+      <td><img src="assets/screenshots/ipmd-mobile.png" alt="IPMD Mobile" width="200" /></td>
+    </tr>
+  </table>
+</div>
+
+**Tech:** React · Vite · SVG Architecture · Vercel
+
 ## 📂 Otros proyectos
 
 | Proyecto | Descripción | Tech |
 |----------|-------------|------|
 | [Design Patterns](https://github.com/frana00/design-patterns) | Patrones de diseño con ejemplos prácticos | Java |
-| [**TFG — Perros Perdidos**](https://github.com/frana00/TFG-DogFinder) ✅ | App móvil para reporte y búsqueda de perros extraviados | React Native · Expo |
+| [TFG — Perros Perdidos](https://github.com/frana00/TFG-DogFinder) ✅ | App móvil para reporte y búsqueda de perros extraviados | React Native · Expo |
+| [**IPMD Study Hub**](https://ipmd.vercel.app/) | Dashboard de estudio interactivo sobre ecosistema Big Data | React · Vite |
 
 ## 📊 Áreas de interés
 
