@@ -72,7 +72,7 @@ Gestión completa de clientes, mascotas, citas, fichas clínicas, recetas, presu
 | Proyecto | Descripción | Tech |
 |----------|-------------|------|
 | [Design Patterns](https://github.com/frana00/design-patterns) | Patrones de diseño con ejemplos prácticos | Java |
-| **TFG — Perros Perdidos** ✅ | App móvil para reporte y búsqueda de perros extraviados | React Native · Expo |
+| [**TFG — Perros Perdidos**](https://github.com/frana00/TFG-DogFinder) ✅ | App móvil para reporte y búsqueda de perros extraviados | React Native · Expo |
 
 ## 📊 Áreas de interés
 
