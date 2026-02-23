@@ -52,8 +52,18 @@ Plataforma integral de gestión para clínicas veterinarias, desarrollada con **
 
 Gestión completa de clientes, mascotas, citas, fichas clínicas, recetas, presupuestos, facturación, notificaciones y más — todo en una interfaz moderna y responsiva.
 
-<!-- Si quieres añadir una captura, descomenta la línea siguiente y sube la imagen a assets/screenshots/ -->
-<!-- ![VetZoo Dashboard](assets/screenshots/vetzoo-dashboard.png) -->
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><strong>🖥️ Desktop</strong></td>
+      <td align="center"><strong>📱 Móvil</strong></td>
+    </tr>
+    <tr>
+      <td><img src="assets/screenshots/vetzoo-dashboard.png" alt="VetZoo Desktop" width="600" /></td>
+      <td><img src="assets/screenshots/vetzoo-mobile.png" alt="VetZoo Mobile" width="200" /></td>
+    </tr>
+  </table>
+</div>
 
 **Tech:** React · TypeScript · Vite · Supabase · PostgreSQL
 
