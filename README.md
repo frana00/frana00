@@ -46,7 +46,7 @@ Cuando no estoy programando, probablemente estoy nadando 🏊‍♀️ o tomando
 
 ## 🚀 Proyectos destacados
 
-### 🐾 CRM Veterinario
+### 🐾 VetZoo — CRM Veterinario
 
 Plataforma integral de gestión para clínicas veterinarias, desarrollada con **React + TypeScript + Supabase**.
 
@@ -59,8 +59,8 @@ Gestión completa de clientes, mascotas, citas, fichas clínicas, recetas, presu
       <td align="center"><strong>📱 Móvil</strong></td>
     </tr>
     <tr>
-      <td><img src="assets/screenshots/crm-dashboard.png" alt="CRM Desktop" width="600" /></td>
-      <td><img src="assets/screenshots/crm-mobile.png" alt="CRM Mobile" width="200" /></td>
+      <td><img src="assets/screenshots/vetzoo-dashboard.png" alt="VetZoo Desktop" width="600" /></td>
+      <td><img src="assets/screenshots/vetzoo-mobile.png" alt="VetZoo Mobile" width="200" /></td>
     </tr>
   </table>
 </div>
@@ -106,7 +106,6 @@ Plataforma interactiva de estudio diseñada para masterizar conceptos de **Ingen
 ¿Tienes un proyecto interesante, una idea o simplemente quieres charlar sobre datos y tecnología?  
 No dudes en contactarme.
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:frana00@gmail.com)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/frana00)
 
 ---
