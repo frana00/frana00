@@ -2,7 +2,7 @@
 
 <div align="center">
 
-**Data Analytics · Full-Stack Development · Visual Analytics**
+**Construyo software que negocios reales usan a diario** · Full-Stack · Datos
 
 [![GitHub](https://img.shields.io/badge/GitHub-frana00-181717?style=for-the-badge&logo=github)](https://github.com/frana00)
 
@@ -93,12 +93,12 @@ Plataforma interactiva de estudio diseñada para masterizar conceptos de **Ingen
 | [Design Patterns](https://github.com/frana00/design-patterns) | Patrones de diseño con ejemplos prácticos | Java |
 | [TFG — Perros Perdidos](https://github.com/frana00/dogs-finder) ✅ | App móvil para reporte y búsqueda de perros extraviados | React Native · Expo |
 
-## 📊 Áreas de interés
+## 🛠️ Qué hago
 
-- 📈 Análisis y visualización de datos masivos
-- 🤖 Machine Learning & Data Science
-- 🌐 Desarrollo full-stack con enfoque en UX
-- 🏥 Software para el sector salud y veterinario
+- 🏥 Sistemas de gestión para clínicas y negocios de servicios — de la base de datos a la interfaz, en producción
+- 📱 Apps móviles con React Native
+- 📊 Análisis y visualización de datos (Máster en Visual Analytics, UNIR)
+- 🎯 Foco en UX: que la persona que lo usa no necesite manual
 
 ## 📫 ¿Hablamos?
 
