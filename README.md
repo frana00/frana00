@@ -91,8 +91,7 @@ Plataforma interactiva de estudio diseñada para masterizar conceptos de **Ingen
 | Proyecto | Descripción | Tech |
 |----------|-------------|------|
 | [Design Patterns](https://github.com/frana00/design-patterns) | Patrones de diseño con ejemplos prácticos | Java |
-| [TFG — Perros Perdidos](https://github.com/frana00/TFG-DogFinder) ✅ | App móvil para reporte y búsqueda de perros extraviados | React Native · Expo |
-| [**IPMD Study Hub**](https://ipmd.vercel.app/) | Dashboard de estudio interactivo sobre ecosistema Big Data | React · Vite |
+| [TFG — Perros Perdidos](https://github.com/frana00/dogs-finder) ✅ | App móvil para reporte y búsqueda de perros extraviados | React Native · Expo |
 
 ## 📊 Áreas de interés
 
